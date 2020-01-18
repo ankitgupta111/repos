@@ -1,0 +1,5 @@
+{
+  "num_days": 2,
+  "dst_db_table_name": "jumbo_derived.chat_order_history"
+}
+
